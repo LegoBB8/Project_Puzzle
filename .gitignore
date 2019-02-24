@@ -1,0 +1,8 @@
+Library/
+Builds/
+Temp/
+obj/
+.vs/
+.gradle/
+
+
